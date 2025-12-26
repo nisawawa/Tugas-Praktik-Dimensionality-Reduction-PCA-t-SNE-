@@ -1,5 +1,5 @@
 Nama Kelompok:
-Aufa Azahria Purba (24523026)
+Aufa Azahria Purba (24523026) &
 Najwa Khairun Nisa (24523263)
 
 1. Deskripsi Kasus,
