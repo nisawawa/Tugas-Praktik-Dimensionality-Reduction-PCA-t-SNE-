@@ -1,3 +1,7 @@
+Nama Kelompok:
+Aufa Azahria Purba (24523026)
+Najwa Khairun Nisa (24523263)
+
 1. Deskripsi Kasus,
 Masalah yang Dihadapi: Dataset Iris memiliki 4 fitur dimensi (sepal_length, sepal_width, petal_length, petal_width). Manusia tidak dapat memvisualisasikan data dalam ruang 4 dimensi secara langsung.
 Mengapa Reduksi Dimensi Dibutuhkan: Untuk memetakan data berdimensi tinggi ke dalam ruang 2D agar pola persebaran spesies bunga Iris dapat dilihat dan dianalisis secara visual.
